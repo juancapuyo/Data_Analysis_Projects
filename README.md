@@ -1,2 +1,2 @@
-# Data_Manipulation_Projects
+# Data_Manipulation_w_Python
 Projects to increase skills in Data Manipulation using Pandas.
